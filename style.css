@@ -1,0 +1,16 @@
+body{
+    background-image: url("Background .png");
+    text-align:center;
+}
+.login_div1 , .login_div1 {
+    background-color:antiquewhite;
+    padding:10px;
+    float:none;
+    border-radius:15px;
+}
+
+#player1_name , #player2_name{
+    display:inline-block;
+    margin-left:20px;
+}
+
